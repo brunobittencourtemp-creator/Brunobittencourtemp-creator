@@ -131,9 +131,7 @@ Atualmente, estou expandindo minha atuação para o desenvolvimento de software,
 </p>
 <br>
 <br>
-<div align=center>
 
-  <img src="https://raw.githubusercontent.com/Marcel017/Marcel017/output/snake.svg" alt="Snake animation" />
 
 </div>
 
